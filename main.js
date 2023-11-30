@@ -165,7 +165,8 @@ db.forEach(()=>{
   document.getElementById("cardcontainer").innerHTML += card();
 })
 
-let pages = [heroSection,navBar]
+//let pages = [heroSection,navBar]
+let pages = [HeroSection,navBar]
 
 
 let i=0;
