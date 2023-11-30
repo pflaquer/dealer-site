@@ -1,4 +1,4 @@
-const HeroSection = ()=>{
+function HeroSection(){
   return `
     <div id="myCarousel" class="carousel slide" data-bs-ride="carousel" style="background-image:radial-gradient(circle, rgba(0, 0, 0, 0) 35%, rgba(24, 24, 24, 1) 75%),url('https://raw.githubusercontent.com/pflaquer/car-dealership/main/src/assets/cars/car-16.jpg');display:flex;width:100%;height:900px;background-attachment: fixed;
   background-position: center;">
