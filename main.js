@@ -166,12 +166,9 @@ db.forEach(()=>{
 })
 
 //let pages = [heroSection,navBar]
-let pages = [HeroSection,navBar]
+let pages = [heroSection,navBar]
 
-
-let i=0;
-
-document.getElementById("heroSection").innerHTML = pages[i]
+document.getElementById("heroSection").innerHTML = pages[0]
 
 document.getElementById("navBar").innerHTML = pages[1]
 
