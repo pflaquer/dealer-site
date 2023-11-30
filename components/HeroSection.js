@@ -14,7 +14,7 @@ const HeroSection = ()=>{
         <div class="container" >
           <div class="carousel-caption text-start">
             <h2 class="headlineText">Quality Used Autos<br><i class="bi bi-headline bi-star-fill"></i> <i class="bi bi-headline bi-star-fill" ></i> <i class="bi bi-headline bi-star-fill" ></i> <i class="bi bi-headline bi-star-fill" ></i> <i class="bi bi-headline bi-star-fill"></i> <br></h2>
-            <p class="lead"style="width:75%">...</p>
+            <p class="lead"style="width:75%">Working!</p>
             <p><a class="btn btn-lg btn-danger bg-gradient" href="#inventory"><i class="bi bi-search"></i> CHECK INVENTORY</a></p>
           </div>
         </div>
