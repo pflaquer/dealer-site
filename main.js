@@ -1,4 +1,4 @@
-import HeroSection from './components/HeroSection'
+import { HeroSection } from '/components/HeroSection.js'
 
 let makeandmodel = 'Jeep Compass Trailhawk'
 let description = "Barely Used!"
