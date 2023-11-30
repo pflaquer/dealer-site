@@ -6,7 +6,8 @@ font-family: 'Oswald', sans-serif !impor5tant;
 opacity:.90;
 margin-bottom: 0;
 padding-bottom:0;   
-  background-image:linear-gradient(black,#FBFBF9,#FBFBF9,white,#FBFBF9,white);
+  /* This is a single-line comment background-image:linear-gradient(black,#FBFBF9,#FBFBF9,white,#FBFBF9,white);*/
+  background-color:black;
 }
 
 
