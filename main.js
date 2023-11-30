@@ -1,3 +1,5 @@
+import HeroSection from './components/HeroSection'
+
 let makeandmodel = 'Jeep Compass Trailhawk'
 let description = "Barely Used!"
 const logo = 'https://raw.githubusercontent.com/pflaquer/dealer-site/main/logo_recon.png'
