@@ -82,7 +82,7 @@ const heroSection = ()=>{
         <div class="container" >
           <div class="carousel-caption text-start">
             <h2 class="headlineText">Quality Used Autos<br><i class="bi bi-headline bi-star-fill"></i> <i class="bi bi-headline bi-star-fill" ></i> <i class="bi bi-headline bi-star-fill" ></i> <i class="bi bi-headline bi-star-fill" ></i> <i class="bi bi-headline bi-star-fill"></i> <br></h2>
-            <p class="lead"style="width:50%">Providing quality, used, affordable auto mobiles for sale in the greater Seattle area</p>
+            <p class="lead"style="width:75%">...</p>
             <p><a class="btn btn-lg btn-danger bg-gradient" href="#inventory"><i class="bi bi-search"></i> CHECK INVENTORY</a></p>
           </div>
         </div>
@@ -93,7 +93,7 @@ const heroSection = ()=>{
         <div class="container" >
           <div class="carousel-caption text-start">
             <h2 class="headlineText">Quality Used Autos<br><i class="bi bi-headline bi-star-fill"></i> <i class="bi bi-headline bi-star-fill" ></i> <i class="bi bi-headline bi-star-fill" ></i> <i class="bi bi-headline bi-star-fill" ></i> <i class="bi bi-headline bi-star-fill"></i> <br></h2>
-            <p class="lead"style="width:50%">Providing quality, used, affordable auto mobiles for sale in the greater Seattle area</p>
+            <p class="lead"style="width:75%">...</p>
             <p><a class="btn btn-lg btn-danger" href="#inventory"><i class="bi bi-search"></i> CHECK INVENTORY</a></p>
           </div>
         </div>
@@ -104,7 +104,7 @@ const heroSection = ()=>{
         <div class="container" >
           <div class="carousel-caption text-start">
             <h2 class="headlineText">Quality Used Autos<br><i class="bi bi-headline bi-star-fill"></i> <i class="bi bi-headline bi-star-fill" ></i> <i class="bi bi-headline bi-star-fill" ></i> <i class="bi bi-headline bi-star-fill" ></i> <i class="bi bi-headline bi-star-fill"></i> <br></h2>
-            <p class="lead"style="width:50%">Providing quality, used, affordable auto mobiles for sale in the greater Seattle area</p>
+            <p class="lead"style="width:75%">Providing quality, used, affordable auto mobiles for sale in the greater Seattle area</p>
             <p><a class="btn btn-lg btn-danger" href="#inventory"><i class="bi bi-search"></i> CHECK INVENTORY</a></p>
           </div>
         </div>
